@@ -14,6 +14,8 @@ const config = {
     "./pages/**/*.{ts,tsx}",
      "./utils/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
+    "./components/ui/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
     "./app/**/*.{ts,tsx}",
     "./src/**/*.{ts,tsx}",
     "./data/**/*.{ts,tsx}",
